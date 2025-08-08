@@ -63,9 +63,12 @@ This project is a **Shipment Management Form** that interacts with the `SHIPMENT
 ---
 
 ## 🖼️ Illustrations
-
-![Form Screenshot](./screenshots/form.png)  
 *Example of the form layout with Bootstrap styling.*
+![Form Screenshot](JPDB/images/screenshot.png)  
+*JPDB home page *
+![Form Screenshot](JPDB/images/screenshot_2.png)
+
+
 
 ---
 
