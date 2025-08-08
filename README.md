@@ -65,18 +65,10 @@ This project is a **Shipment Management Form** that interacts with the `SHIPMENT
 ## 🖼️ Illustrations
 *Example of the form layout with Bootstrap styling.*
 ![Form Screenshot](JPDB/images/screenshot.png)  
-*JPDB home page *
+*JPDB home page*
 ![Form Screenshot](JPDB/images/screenshot_2.png)
 
 
-
----
-
-## 📌 Project Status
-
-✅ Completed and tested  
-🛠️ Ready for deployment or integration into larger systems  
-📦 Hosted locally or on GitHub Pages
 
 ---
 
@@ -93,14 +85,11 @@ This project is a **Shipment Management Form** that interacts with the `SHIPMENT
 - [JsonPowerDB Documentation](https://login2explore.com/jpdb/docs.html)
 - [Bootstrap 5](https://getbootstrap.com/)
 - [jQuery](https://jquery.com/)
-- [Assignment Specification](#)
 
 ---
 
 ## 🧠 Other Information
 
 - Developed as part of a web development assignment
-- Designed for educational and demonstration purposes
-- Can be extended to support authentication, pagination, and analytics
 
 ---
